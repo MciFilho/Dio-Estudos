@@ -9,5 +9,54 @@ O Orange tech + é um projeto para você que deseja aprender do zero desenvolvim
 ### Introdução ao Desenvolvimento Moderno de Software
 ###### Denilson Bonatti (Tech Lead - Dio)
 
-- [Materiais de Apoio](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EYHcjptuOoNPs4qzd2upfmwBaLoG_FfSdzZH3zJiBvABiw?rtime=d41Z3WbL2kg)
+- Introdução ao Desenvolvimento Moderno de Software
+
+
+
+[Materiais de Apoio](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EYHcjptuOoNPs4qzd2upfmwBaLoG_FfSdzZH3zJiBvABiw?rtime=d41Z3WbL2kg)
+
+#
+
+### Introdução à Programação e Pensamento Computacional
+###### Juliana Mascarenha (Instrutora Digital Innovation One)
+
+- Pensameto Computacional
+
+- Introdução à Lógica de Programação
+
+- Fundamentos de Algoritimos
+
+- Linguagens de Programação
+
+- Primeiro contato com a Programação
+
+[Materias de Apoio](https://drive.google.com/file/d/1vemC6G790JNte1882V53DAKEawJzVIWL/view)
+
+#
+
+### Introdução ao Git e ao GitHub
+
+###### Otávio Reis (Perkles._)
+
+- Introdução ao Git
+
+- Navegações via comandos line interface e instalação
+
+- Entendendo como o Git funciona por baixo dos panos
+
+- Primeiros comandos com o Git
+
+    -   git init = Criar novo repositório
+    -   git add = Adicionar todos os arquivos/diretórios
+    -   git commit = Comitar um arquivo
+
+- Ciclo de vida dos Arquivos Git
+
+- introdução ao GitHob
+
+- Resolvendo conflitos
+
+[Comandos](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+
+#
 
