@@ -6,6 +6,8 @@ O Orange tech + é um projeto para você que deseja aprender do zero desenvolvim
 
 #
 
+<img src="" height="85px"/>
+
 ### Introdução ao Desenvolvimento Moderno de Software
 ###### Denilson Bonatti (Tech Lead - Dio)
 
@@ -16,6 +18,8 @@ O Orange tech + é um projeto para você que deseja aprender do zero desenvolvim
 [Materiais de Apoio](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EYHcjptuOoNPs4qzd2upfmwBaLoG_FfSdzZH3zJiBvABiw?rtime=d41Z3WbL2kg)
 
 #
+
+<img src="" height="85px"/>
 
 ### Introdução à Programação e Pensamento Computacional
 ###### Juliana Mascarenha (Instrutora Digital Innovation One)
@@ -33,6 +37,8 @@ O Orange tech + é um projeto para você que deseja aprender do zero desenvolvim
 [Materias de Apoio](https://drive.google.com/file/d/1vemC6G790JNte1882V53DAKEawJzVIWL/view)
 
 #
+
+<img src="" height="85px"/>
 
 ### Introdução ao Git e ao GitHub
 
@@ -60,3 +66,35 @@ O Orange tech + é um projeto para você que deseja aprender do zero desenvolvim
 
 #
 
+<img src="https://hermes.digitalinnovation.one/courses/badge/5a16dc2f-9edb-4562-b4dd-988c4be05905.png" height="85px"/>
+
+
+### Primeiros Passos Com JavaScript
+
+###### Renan Johannsen (Software Engineer Lead - S3 BANK)
+
+
+- Variáveis e Operadores
+
+    - Obs.: **let** = variável flexivel, que pode ser alterada;   
+   -  **const** = variável fixa valor inalterado
+
+- Etruturas condicionais
+
+    - if = Se
+    
+    - else if = se não se
+
+    - else = se não
+
+- Praticando com Variáveis, Operadores e Estruturas Condicionais
+
+    - Lista de exercícios
+
+    
+
+
+
+[Material de Apoio](https://github.com/digitalinnovationone/javascript-developer-m1.git)
+
+#
